@@ -9,7 +9,7 @@ public class DamageSystem : MonoBehaviour
     }
 
 
-int Method1(int health)
+int Method1(int health=100)
 {
     return health;
 }
